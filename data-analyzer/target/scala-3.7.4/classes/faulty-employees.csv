@@ -1,0 +1,8 @@
+id,name,age,city,salary
+1,Alice,29,NYC,120000
+2,Bob,thirty-five,SF,150000 
+3,Carol,,NYC,130000
+4,David,40,LA,   
+5,Eve,27,Chicago,90000
+6,Frank,33,Houston,110000,ExtraCol
+7,Grace,29,Seattle,95000
